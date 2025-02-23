@@ -61,6 +61,6 @@ Software
    ros2 run teleop_twist_joy teleop_node
    ```
 6. Flash Arduino Firmware
-   - Compile and upload the firmware using Arduino IDE or PlatformIO.
+   - Compile and upload the firmware using Arduino IDE.
 --------------------------------------------------------------------------------------------------------------------------
 📌 For more details, please visit the Project Report (PDF) and Project Presentation (PPT) available in the repository.
