@@ -43,7 +43,7 @@ Software
  ## Installation & Setup
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/yourusername/omnidirectional-robot-ros2.git
+   git clone https://github.com/Radwa4335/Design-and-Control-of-an-Omnidirectional-Mobile-Robot-Using-ROS2.git
    cd omnidirectional-robot-ros2
    ```
 2. Build the ROS2 Workspace
